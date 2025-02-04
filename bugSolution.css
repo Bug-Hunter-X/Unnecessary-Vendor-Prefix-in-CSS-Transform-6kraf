@@ -1,0 +1,7 @@
+The corrected CSS removes the unnecessary vendor prefix:
+
+```css
+transform: scale(1.1);
+```
+
+This version will work consistently across modern browsers without relying on outdated vendor-specific properties.
