@@ -1,0 +1,7 @@
+The following CSS rule uses a vendor prefix that is no longer necessary or supported by modern browsers:
+
+```css
+-webkit-transform: scale(1.1);
+```
+
+This can lead to unexpected behavior or styling issues in newer browsers.  The `-webkit-` prefix is primarily associated with older WebKit-based browsers (like older versions of Safari).
